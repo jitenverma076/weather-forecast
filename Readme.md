@@ -8,7 +8,6 @@ A modern, responsive web app to view real-time weather and 5-day forecasts for a
 - 🗺️ City map using Google Maps Static API
 - 🔍 Fast city search with instant feedback
 - ⚡ Beautiful, mobile-friendly UI (Tailwind CSS)
-- 🚫 No default/placeholder cities—start with your own search
 
 ## Setup
 1. **Clone this repo**
